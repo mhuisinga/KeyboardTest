@@ -1,0 +1,84 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyboardTest", "KeyboardTest\KeyboardTest.csproj", "{6A26BF97-5DD3-4BE8-A90E-67B20B6E793C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM = Debug|ARM
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		DebugResource|Any CPU = DebugResource|Any CPU
+		DebugResource|ARM = DebugResource|ARM
+		DebugResource|ARM64 = DebugResource|ARM64
+		DebugResource|x64 = DebugResource|x64
+		DebugResource|x86 = DebugResource|x86
+		Release|Any CPU = Release|Any CPU
+		Release|ARM = Release|ARM
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A26BF97-5DD3-4BE8-A90E-67B20B6E793C}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{6A26BF97-5DD3-4BE8-A90E-67B20B6E793C}.Debug|ARM.ActiveCfg = Debug|ARM
+		{6A26BF97-5DD3-4BE8-A90E-67B20B6E793C}.Debug|ARM.Build.0 = Debug|ARM
+		{6A26BF97-5DD3-4BE8-A90E-67B20B6E793C}.Debug|ARM.Deploy.0 = Debug|ARM
+		{6A26BF97-5DD3-4BE8-A90E-67B20B6E793C}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{6A26BF97-5DD3-4BE8-A90E-67B20B6E793C}.Debug|ARM64.Build.0 = Debug|ARM64
+		{6A26BF97-5DD3-4BE8-A90E-67B20B6E793C}.Debug|ARM64.Deploy.0 = Debug|ARM64
+		{6A26BF97-5DD3-4BE8-A90E-67B20B6E793C}.Debug|x64.ActiveCfg = Debug|x64
+		{6A26BF97-5DD3-4BE8-A90E-67B20B6E793C}.Debug|x64.Build.0 = Debug|x64
+		{6A26BF97-5DD3-4BE8-A90E-67B20B6E793C}.Debug|x64.Deploy.0 = Debug|x64
+		{6A26BF97-5DD3-4BE8-A90E-67B20B6E793C}.Debug|x86.ActiveCfg = Debug|x86
+		{6A26BF97-5DD3-4BE8-A90E-67B20B6E793C}.Debug|x86.Build.0 = Debug|x86
+		{6A26BF97-5DD3-4BE8-A90E-67B20B6E793C}.Debug|x86.Deploy.0 = Debug|x86
+		{6A26BF97-5DD3-4BE8-A90E-67B20B6E793C}.DebugResource|Any CPU.ActiveCfg = Release|x86
+		{6A26BF97-5DD3-4BE8-A90E-67B20B6E793C}.DebugResource|Any CPU.Build.0 = Release|x86
+		{6A26BF97-5DD3-4BE8-A90E-67B20B6E793C}.DebugResource|Any CPU.Deploy.0 = Release|x86
+		{6A26BF97-5DD3-4BE8-A90E-67B20B6E793C}.DebugResource|ARM.ActiveCfg = Debug|ARM
+		{6A26BF97-5DD3-4BE8-A90E-67B20B6E793C}.DebugResource|ARM.Build.0 = Debug|ARM
+		{6A26BF97-5DD3-4BE8-A90E-67B20B6E793C}.DebugResource|ARM.Deploy.0 = Debug|ARM
+		{6A26BF97-5DD3-4BE8-A90E-67B20B6E793C}.DebugResource|ARM64.ActiveCfg = Debug|ARM64
+		{6A26BF97-5DD3-4BE8-A90E-67B20B6E793C}.DebugResource|ARM64.Build.0 = Debug|ARM64
+		{6A26BF97-5DD3-4BE8-A90E-67B20B6E793C}.DebugResource|ARM64.Deploy.0 = Debug|ARM64
+		{6A26BF97-5DD3-4BE8-A90E-67B20B6E793C}.DebugResource|x64.ActiveCfg = Debug|x64
+		{6A26BF97-5DD3-4BE8-A90E-67B20B6E793C}.DebugResource|x64.Build.0 = Debug|x64
+		{6A26BF97-5DD3-4BE8-A90E-67B20B6E793C}.DebugResource|x64.Deploy.0 = Debug|x64
+		{6A26BF97-5DD3-4BE8-A90E-67B20B6E793C}.DebugResource|x86.ActiveCfg = Debug|x86
+		{6A26BF97-5DD3-4BE8-A90E-67B20B6E793C}.DebugResource|x86.Build.0 = Debug|x86
+		{6A26BF97-5DD3-4BE8-A90E-67B20B6E793C}.DebugResource|x86.Deploy.0 = Debug|x86
+		{6A26BF97-5DD3-4BE8-A90E-67B20B6E793C}.Release|Any CPU.ActiveCfg = Release|x86
+		{6A26BF97-5DD3-4BE8-A90E-67B20B6E793C}.Release|ARM.ActiveCfg = Release|ARM
+		{6A26BF97-5DD3-4BE8-A90E-67B20B6E793C}.Release|ARM.Build.0 = Release|ARM
+		{6A26BF97-5DD3-4BE8-A90E-67B20B6E793C}.Release|ARM.Deploy.0 = Release|ARM
+		{6A26BF97-5DD3-4BE8-A90E-67B20B6E793C}.Release|ARM64.ActiveCfg = Release|ARM64
+		{6A26BF97-5DD3-4BE8-A90E-67B20B6E793C}.Release|ARM64.Build.0 = Release|ARM64
+		{6A26BF97-5DD3-4BE8-A90E-67B20B6E793C}.Release|ARM64.Deploy.0 = Release|ARM64
+		{6A26BF97-5DD3-4BE8-A90E-67B20B6E793C}.Release|x64.ActiveCfg = Release|x64
+		{6A26BF97-5DD3-4BE8-A90E-67B20B6E793C}.Release|x64.Build.0 = Release|x64
+		{6A26BF97-5DD3-4BE8-A90E-67B20B6E793C}.Release|x64.Deploy.0 = Release|x64
+		{6A26BF97-5DD3-4BE8-A90E-67B20B6E793C}.Release|x86.ActiveCfg = Release|x86
+		{6A26BF97-5DD3-4BE8-A90E-67B20B6E793C}.Release|x86.Build.0 = Release|x86
+		{6A26BF97-5DD3-4BE8-A90E-67B20B6E793C}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3351EED-69FA-4D71-8701-2CC7C8FAD881}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://melbourne:8080/tfs/3wt
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = KeyboardTest\\KeyboardTest.csproj
+		SccProjectName1 = KeyboardTest
+		SccLocalPath1 = KeyboardTest
+	EndGlobalSection
+EndGlobal
